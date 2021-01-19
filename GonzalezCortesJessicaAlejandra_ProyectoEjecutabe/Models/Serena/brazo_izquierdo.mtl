@@ -1,0 +1,69 @@
+newmtl Cuerpo1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cuerpo1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd amarillo.png
+Ni 1.00
+newmtl Cuerpo1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel.jpg
+Ni 1.00
+newmtl Cuerpo1:lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.jpg
+Ni 1.00
+newmtl Cuerpo1:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ojo.jpg
+Ni 1.00
+newmtl Cuerpo1:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Silla.jpg
+Ni 1.00
+newmtl brazo_derecho:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel.jpg
+Ni 1.00
+newmtl brazo_derecho:lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.jpg
+Ni 1.00
+newmtl brazo_izquierdo:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piel.jpg
+Ni 1.00
+newmtl brazo_izquierdo:lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negro.jpg
+Ni 1.00

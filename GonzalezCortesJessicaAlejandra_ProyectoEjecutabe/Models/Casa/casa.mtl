@@ -1,0 +1,452 @@
+newmtl cama:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl cama1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl cama1:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fondo_amohada.jpg
+Ni 1.00
+newmtl cama1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cobijita.jpg
+Ni 1.00
+newmtl cama1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fondo_cama.jpg
+Ni 1.00
+newmtl casa:blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl casa:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso_madera.jpg
+Ni 1.00
+newmtl casa:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_blanca.jpg
+Ni 1.00
+newmtl casa:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl casa:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_cafe.jpg
+Ni 1.00
+newmtl casa:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_azul.jpg
+Ni 1.00
+newmtl casa:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd teja.jpg
+Ni 1.00
+newmtl casa:text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl casa:text_007
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl casa1:blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl casa1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl casa1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd reloj.jpg
+Ni 1.00
+newmtl casa1:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl casa1:lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casa1:lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casa1:lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fondo_amohada.jpg
+Ni 1.00
+newmtl casa1:lambert2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casa1:lambert2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl casa1:lambert2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso_madera.jpg
+Ni 1.00
+newmtl casa1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_blanca.jpg
+Ni 1.00
+newmtl casa1:lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapiz_azul.jpg
+Ni 1.00
+newmtl casa1:lambert3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cobijita.jpg
+Ni 1.00
+newmtl casa1:lambert3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tocador.jpg
+Ni 1.00
+newmtl casa1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fondo_cama.jpg
+Ni 1.00
+newmtl casa1:lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl casa1:lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd espejo.jpg
+Ni 1.00
+newmtl casa1:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tele.jpg
+Ni 1.00
+newmtl casa1:lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_cafe.jpg
+Ni 1.00
+newmtl casa1:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_azul.jpg
+Ni 1.00
+newmtl casa1:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cortina.jpg
+Ni 1.00
+newmtl casa1:lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Silla.jpg
+Ni 1.00
+newmtl casa1:lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd teja.jpg
+Ni 1.00
+newmtl casa1:pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Espejo.jpg
+Ni 1.00
+newmtl casa1:text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_cuarto.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl casa1:text_007
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl cortina:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tocador_dentro.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapiz_azul.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_cuarto.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tele.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hojas_Arbol.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cortina.jpg
+Ni 1.00
+newmtl lampara:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lampara:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa_azul.jpg
+Ni 1.00
+newmtl puerta:blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl puerta:text_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl puerta:text_003
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl puerta:text_005
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl puerta:text_009
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl puerta:text_011
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl reloj:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd reloj.jpg
+Ni 1.00
+newmtl roperito1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl roperito1:pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Espejo.jpg
+Ni 1.00
+newmtl silla:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl silla:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Silla.jpg
+Ni 1.00
+newmtl tocador:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tocador.jpg
+Ni 1.00
+newmtl tocador:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd espejo.jpg
+Ni 1.00
